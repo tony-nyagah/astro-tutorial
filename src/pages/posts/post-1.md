@@ -5,7 +5,7 @@ pubDate: 2024-02-24
 description: "This is the first post on my new Astro blog."
 author: "Astro Learner"
 image:
-    url: "https;//docs.astro.builb/assets/full-logo-light.png"
+    url: "https://docs.astro.builb/assets/full-logo-light.png"
     alt: "The full Astro logo."
 tags: ["astro", "blogging", "learning in public"]
 ---
